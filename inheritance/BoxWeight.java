@@ -11,4 +11,8 @@ public class BoxWeight extends Box {
         //but it can not access members which are declared private
         this.weight = weight;
     }
+    public BoxWeight(BoxWeight other) {
+        super(other);
+        weight = other.weight;
+    }
 }

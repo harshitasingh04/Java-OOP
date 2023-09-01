@@ -1,0 +1,5 @@
+In Multiple Inheritance, one class can have more than one superclass and can inherit properties of all the parent classes.
+But in Java, multiple inheritance is not supported.
+We can achieve multiple inheritance only through interfaces.
+And Since multiple inheritance os not supported in Java, hybrid inheritance also cannot be achieved. 
+We can only achieve hybrid inheritance through interfaces.
